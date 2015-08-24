@@ -1,4 +1,3 @@
-require 'benchmark'
 def fibonacci(n)
   phi = ((1 + Math.sqrt(5))/2)
   neg_phi = ((1 - Math.sqrt(5))/2)
